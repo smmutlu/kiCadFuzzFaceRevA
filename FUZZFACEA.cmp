@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5AA4E76B;
+Reference = C1;
+ValeurCmp = CPOL-USTAP5-60;
+IdModule  = TAP5-60;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4E833;
+Reference = C2;
+ValeurCmp = CPOL-USTAP5-60;
+IdModule  = TAP5-60;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4E8FB;
+Reference = C3;
+ValeurCmp = CPOL-USE2-4;
+IdModule  = E2-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4E9C3;
+Reference = C4;
+ValeurCmp = CPOL-USE15-6AXIAL;
+IdModule  = E15-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EA8B;
+Reference = INPUT11;
+ValeurCmp = PINHD-1X1;
+IdModule  = 1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EB53;
+Reference = OUTPUT11;
+ValeurCmp = PINHD-1X1;
+IdModule  = 1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EC1B;
+Reference = Q1;
+ValeurCmp = 2N3467;
+IdModule  = TO39;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4ECE3;
+Reference = Q2;
+ValeurCmp = 2N3467;
+IdModule  = TO39;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EDAB;
+Reference = R1;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EE73;
+Reference = R2;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4EF3B;
+Reference = R3;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F003;
+Reference = R4;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F0CB;
+Reference = R5;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F193;
+Reference = R6;
+ValeurCmp = R-TRIMM64X;
+IdModule  = RTRIM64X;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F25B;
+Reference = R7;
+ValeurCmp = R-TRIMM64X;
+IdModule  = RTRIM64X;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F323;
+Reference = R8;
+ValeurCmp = R-TRIMM64X;
+IdModule  = RTRIM64X;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F3EB;
+Reference = R9;
+ValeurCmp = R-US_0411/12;
+IdModule  = 0411_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F4B3;
+Reference = R10;
+ValeurCmp = R-TRIMM64X;
+IdModule  = RTRIM64X;
+EndCmp
+
+BeginCmp
+TimeStamp = /5AA4F837;
+Reference = SUPPLY11;
+ValeurCmp = PINHD-1X2;
+IdModule  = 1X02;
+EndCmp
+
+EndListe
